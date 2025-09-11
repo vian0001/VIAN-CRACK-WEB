@@ -1,0 +1,41 @@
+{
+  "name": "web-code-toolkit",
+  "version": "1.0.0",
+  "description": "Tools untuk bekerja dengan kode HTML",
+  "accessList": [
+    {
+      "code": "alwayslanz",
+      "expiry": "2025-07-12T08:55:50"
+    },
+    {
+      "code": "freeakses",
+      "expiry": "2025-07-13T10:59:59"
+    },
+    {
+      "code": "kontolmmk",
+      "expiry": "2025-07-16T15:01:01"
+    },
+    {
+      "code": "ekatzy",
+      "Expiry": "2025-08-13T16:36:01"
+    },
+    {
+      "code": "Varrga",
+      "Expiry": " 2025-08-14T13:03:01"
+    },
+    {
+      "code": "jovian057",
+      "expiry": "2025-09-01T15:07:01"
+    }, 
+    {
+      "code": "tes",
+      "expiry": "2025-07-12T09:06:05"
+    }
+  ],
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vian",
+  "license": "MIT"
+}
