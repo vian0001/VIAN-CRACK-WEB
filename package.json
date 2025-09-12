@@ -31,6 +31,10 @@
       "code": "tes",
       "expiry": "2025-07-12T09:06:05"
     }
+        {
+      "code": "jovian",
+      "expiry": "2025-10-12T09:06:05"
+    }
   ],
   "main": "index.html",
   "scripts": {
