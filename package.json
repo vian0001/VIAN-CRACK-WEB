@@ -5,7 +5,7 @@
   "accessList": [
     {
       "code": "alwayslanz",
-      "expiry": "2025-07-12T08:55:50"
+      "expiry": "2029-07-12T08:55:50"
     },
     {
       "code": "freeakses",
@@ -28,18 +28,14 @@
       "expiry": "2025-09-01T15:07:01"
     }, 
     {
-      "code": "jovian",
-      "expiry": "2027-07-12T09:06:05"
-    },
-    {
-      "code": "jovian",
-      "expiry": "2027-10-12T09:06:05"
+      "code": "tes",
+      "expiry": "2025-07-12T09:06:05"
     }
   ],
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "vian",
+  "author": "AlwaysLanz",
   "license": "MIT"
 }
